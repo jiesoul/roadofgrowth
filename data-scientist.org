@@ -1,0 +1,88 @@
+* become a Data Scientist
+@ DataCamp
+[[
+[[http://blog.datacamp.com/wp-content/uploads/2014/08/How-to-become-a-data-scientist.jpg]]
+][become a Data Scientist]]
+** 1. get good at stats, math and machine learning
+*** math
+**** Math Track of Khan Academy
+**** Linear Algebra by MIT OpenCourseware
+*** Stats
+**** Intro to Statistics by Udacity
+**** OpenIntro Statistics
+*** ML
+**** Machine Learning by Andrew NG(Stanford Online)
+**** Practical Machine Learning by John Hopkins (Coursera)
+** 2. Learn to code
+*** Computer Science Fundamentals
+**** CS50X on deX
+*** Grasp end-to-end development
+**** The things you build will be integrated into other systems.
+*** Choose first language
+**** Open Source: R, Python, etc.
+**** Commercial: SAS, SPSS, etc.
+*** Learn Interacively
+**** R: DataCamp, try R
+**** Python: Codecademy, Google Class
+** 3. Understand databases
+As a data scientist student, you will ofter work with data in text files.
+However, once you enter the industry, a database is almost always used to store data.
+It's going to be stored in Mysql, Postgres, MongoDB, Cassandra, etc.
+** 4. Master data munging, visualization and reporting
+*** Data cleaninig and munging
+**** WHAT
+Data munging is the process of converting one "raw" form into another format for more convenient consumption.
+**** TOOLS
+Getting and Cleaning data by John Hopinks (Coursera)
+*** Data visualization
+**** WHAT
+Data visualization involves the creation and study of the visual representation of data.
+**** TOOLS
+ggvis
+*** Reporting
+**** WHAT
+In every data analysis, putting the analysis and the results into a comprehensible report is hte final huradle to tak.
+**** TOOLS
+ableau
+spotfire 
+R Markdown
+** 5. Level up with Big Data
+When you start operating with data at the scale of the web, the fundamental approach and  process of analysis must change.
+Most data scientists are working on problems that can't be run on single machines. 
+They have large data sets that require distributed processing.
+*** hadoop
+Hadoop is an open-source software framework for storage and large-scale processing of data-sets on clusters of commodity hardware.
+*** Map Reduce
+MapReduce is this programming paradigm that allows for massive scalability across the servers in a Hadoop.
+*** Spark
+Apache Spark is Hadoop's speedy Swiss Army knife. It is a fast-runing data analysis system that provides real-time data processing function to Hadoop.
+** 6. Get Expperience, practice and meet fellow data scientists.
+Proactice makes perfect..
+*** Kaggle 
+loin in competitions
+*** meetup
+meet fellow data scientists
+*** have a pet project 
+*** Develop your intuition
+** 7. Internship, bootcamp or get a job.
+The bset way to find out whether you are a true data scientist or not is to take the bull by the horns and to enter the real-life jungle of data-analysis and science with your freshly acquired skill set.
+*** Internship 
+BEGINGNER
+*** Bootcamp
+INTERMEDIATE
+*** lob
+ADVANCED
+** 8. Follow and engage with the community
+*** Sites to follow
+**** Data Tau
+**** Kdnuggets
+**** fivethirtyeight
+**** datascience101
+**** r-bloggers
+*** People to follow
+**** Hilary Mason
+**** David Smith
+**** Nate Silver
+**** dj patil
+*** Need Data
+**** quandl
