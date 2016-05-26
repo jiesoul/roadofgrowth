@@ -1,0 +1,203 @@
+* TODO 数据科学入门 [0%]
+** TODO 前言 [100%]
+*** DONE 数据科学
+CLOSED: [2016-05-26 周四 11:43]
++ 文氏图
+  + [[Data_Science_VD.png]]
++ 数据科学是以下几个方面的交叉：
+  + 黑客技能
+  + 数学和统计学知识
+  + 专业技能
++ 本书专注于前两个方面
+  + 掌握必需的黑客技能
+  + 熟悉数学和统计学
+*** DONE 从零开始
+CLOSED: [2016-05-26 周四 11:47]
++ python的优势
+  + 免费
+  + 编程相对简单
+  + 具有很多数据科学相关的库
+
+** TODO 导论 [100%]
+*** DONE 数据的威力
+CLOSED: [2016-05-26 周四 11:58]
++ 数据无处不在，隐藏着无数问题的答案
+*** DONE 什么是数据科学
+CLOSED: [2016-05-26 周四 12:00]
++ 数据科学家是能够从混乱数据中剥离出洞见的人。
+*** DONE 激励假设：DataSciencester
+CLOSED: [2016-05-26 周四 12:03]
++ DataSciencester 拥有一种特别强烈的原创精神--“非我莫属”，即在工作中使用到的工具必须自己亲手创建。这样完成工作之后，你会全面深入的埸有数据科学家。
+*** DONE 展望
+CLOSED: [2016-05-26 周四 12:29] 
+** TODO ptyon速成 [100%]
+*** DONE 基础内容
+CLOSED: [2016-05-26 周四 14:50]
+*** DONE 进阶内容
+CLOSED: [2016-05-26 周四 14:50]
+*** DONE 延伸学习
+CLOSED: [2016-05-26 周四 14:50]
+** TODO 可视化数据 [0%]
++ 两种主要用途：
+  + 探索数据
+  + 交流数据
+*** TODO matplotlib
+*** TODO 条形图
+*** TODO 线图
+*** TODO 散点图
+*** TODO 延伸学习
+** TODO 线性代数 [%]
+*** TODO 向量
+*** TODO 矩阵
+*** TODO 延伸学习
+** TODO 统计学 [%]
+*** TODO 描述单个数据集
+*** TODO 相关
+*** TODO 辛普森悖论
+*** TODO 相关系数其他注意事项
+*** TODO 相关和因果
+*** TODO 延伸学习
+** TODO 概率 [%]
+*** TODO 不独立和独立
+*** TODO 条件概率
+*** TODO 贝叶斯定理
+*** TODO 随机变量
+*** TODO 连续分布
+*** TODO 正态分布
+*** TODO 中心极限定理
+*** TODO 延伸学习
+** TODO 假设与推断 [%]
+*** TODO 统计假设检验 
+*** TODO 案例：掷硬币
+*** TODO 置信区间
+*** TODO P-hacking
+*** TODO 案例：运行 A/B 测试
+*** TODO 贝叶斯推断
+*** TODO 延伸学习
+** TODO 梯度下降 [%]
+*** TODO 梯度下降的思想
+*** TODO 估算梯度
+*** TODO 使用梯度
+*** TODO 选择正确步长
+*** TODO 综合
+*** TODO 随机梯度下降法
+*** TODO 延伸学习
+** TODO 获取数据 [%]
+*** TODO stdin和stdout
+*** TODO 读取文件
+*** TODO 网络抓取
+*** TODO 使用API
+*** TODO 案例：使用Twitter API
+*** TODO 延伸学习
+** TODO 数据工作 [%]
+*** TODO 探索你的数据
+*** TODO 清理与修改
+*** TODO 数据处理
+*** TODO 数据调整
+*** TODO 降维
+*** 延伸学习
+** TODO 机器学习 [%]
+*** TODO 建模
+*** TODO 什么是机器学习
+*** TODO 过拟合和欠拟合
+*** TODO 正确性
+*** TODO 偏倚-方差权衡
+*** TODO 特征提取和选择
+*** TODO 延伸学习
+** TODO K近邻法 [%]
+*** TODO 模型
+*** TODO 案例：最喜欢的编程语言
+*** TODO 维数灾难
+*** TODO 延伸学习
+** TODO 朴素贝叶斯算法 [%]
+*** TODO 一个简易的垃圾邮件过滤器
+*** TODO 一个复杂的垃圾邮件过滤器
+*** TODO 算法的实现
+*** TODO 测试模型
+*** TODO 延伸学习
+** TODO 简单线性回归 [%]
+*** TODO 模型
+*** TODO 利用梯度下降法
+*** TODO 最大似然估计
+*** TODO 延伸学习
+** TODO 多重回归分析 [%]
+*** TODO 模型
+*** TODO 最小二乘模型的进一步假设
+*** TODO 拟合模型
+*** TODO 解释模型
+*** TODO 拟合优度
+*** TODO 题外话：Bootstrap
+*** TODO 回归系数的标准误差
+*** TODO 正则化
+*** 延伸学习
+** TODO 逻辑回归 [%]
+*** TODO 问题
+*** TODO Logistic函数
+*** TODO 应用模型
+*** TODO 拟合优度
+*** TODO 支持向量机
+*** TODO 延伸学习
+** TODO 决策树 [%]
+*** TODO 什么是决策树
+*** TODO 熵
+*** TODO 分割之熵
+*** TODO 创建决策树
+*** TODO 综合运用
+*** TODO 随机森林
+*** TODO 延伸学习
+** TODO 神经网络 [%]
+*** TODO 感知器
+*** TODO 前馈神经网络
+*** TODO 反向传播
+*** TODO 实例：战胜 CAPTCHA
+*** TODO 延伸学习
+** TODO 聚类分析 [%]
+*** TODO 原理
+*** TODO 模型
+*** TODO 示例：聚会
+*** TODO 选择聚类数目 K
+*** TODO 示例：对色彩进行聚类
+*** TODO 延伸学习
+** TODO 自然语言处理 [%]
+*** TODO 词云
+*** TODO n-grans 模型
+*** TODO 语法
+*** TODO 题外话：吉布斯采样
+*** TODO 延伸学习
+** TODO 网络分析 [%]
+*** TODO 中介中心度
+*** TODO 特征向量中心度
+*** TODO 有向图与 PageRank
+*** TODO 延伸学习
+** TODO 推荐系统 [%]
+*** TODO 手工甄选
+*** TODO 推荐流行事物
+*** TODO 基于用户的协同过滤方法
+*** TODO 基于物品的协同过滤方法
+*** TODO 延伸学习
+** TODO 数据库与SQL [%]
+*** TODO CREATE TABLE 与 INSERT
+*** TODO UPDATA
+*** TODO DELETE
+*** TODO SELECT
+*** TODO GROUP BY
+*** TODO ORDER BY
+*** TODO JOIN
+*** TODO 子查询
+*** TODO 索引
+*** TODO NoSQL
+*** TODO 延伸学习
+** TODO MapReduce [%]
+*** TODO 案例：单词计数
+*** TODO 为什么是 MapReduce
+*** TODO 更加一般化的MapReduce
+*** TODO 案例：分析状态更新
+*** TODO 案例：矩阵计算
+*** TODO 题外话：组合器
+*** TODO 延伸学习
+** TODO 数据科学前瞻 [%]
+*** TODO IPython
+*** TODO 数学
+*** TODO 不从零开始
+*** TODO 寻找数据
+*** TODO 从事数据
