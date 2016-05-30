@@ -1,0 +1,29 @@
+* TODO 数学 [%]
+** TODO Linear Algebra and Its Applications，Gilbert Strang著（Cengage Learning）
+** TODO Convex Optimization，Stephen Boyd 和 Lieven Vendenberghe 著（Cambridge University Press）
+** TODO A First Course in Probability（Pearson）、Introduction to Probability Models（Academic Press），Sheldon Ross 著
+* TODO 编程 [%]
+** TODO R in a Nutshell，Joseph Adler著（O’Reilly）
+** TODO Learning Python，Mark Lutz 和 David Ascher 著（O’Reilly）
+** TODO R for Everyone: Advanced Analytics and Graphics，Jared Lander著（Addison-Wesley）
+** TODO The Art of R Programming: A Tour of Statistical Software Design，Norman Matloff 著（No Starch Press）
+** TODO Python for Data Analysis，Wes McKinney著（O’Reilly）
+* TODO 数据分析与统计推断 [%]
+** TODO Statistical Inference，George Casella和 Roger L. Berger著（Cengage Learning）
+** TODO Bayesian Data Analysis，Andrew Gelman 等著（Chapman & Hall）
+** TODO Data Analysis Using Regression and Multilevel/Hierarchical Models，Andrew Gelman和Jennifer Hill 著（Cambridge University Press）
+** TODO Advanced Data Analysis from an Elementary Point of View（http://goo.gl/udICRX），Cosma Shalizi 著（Cambridge University Press）
+** TODO The Elements of Statistical Learning: Data Mining, Inference and Prediction，Trevor Hastie、Robert Tibshirani 和Jerome Friedman 著（Springer）
+* TODO 人工智能和机器学习 [%]
+** TODO Pattern Recognition and Machine Learning，Christopher Bishop著（Springer）
+** TODO Bayesian Reasoning and Machine Learning，David Barber 著（Cambridge University Press）
+** TODO Programming Collective Intelligence，Toby Segaran 著（O’Reilly）
+** TODO Artificial Intelligence: A Modern Approach，Stuart Russell和 Peter Norvig 著（Prentice Hall）
+** TODO Foundations of Machine Learning，Mehryar Mohri、Afshin Rostamizadeh 和 Ameet Talwalkar 著（MIT Press）
+** TODO Introduction to Machine Learning (Adaptive Computation and Machine Learning)，Ethem Alpaydim 著（MIT Press）
+* TODO 实验设计 [%]
+** TODO Field Experiments，Alan S. Gerber 和 Donald P. Green 著（Norton）
+** TODO Statistics for Experimenters: Design, Innovation, and Discovery，George E. P. Box等著（Wiley-Interscience）
+* TODO 可视化 [%]
+** TODO The Elements of Graphing Data，William Cleveland著（Hobart Press）
+** TODO Visualize This: The FlowingData Guide to Design,Visualization，and Statistics，Nathan Yau 著（Wiley）

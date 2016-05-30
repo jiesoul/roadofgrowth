@@ -6,7 +6,10 @@
 ** 1. get good at stats, math and machine learning
 *** math
 **** Math Track of Khan Academy
-**** Linear Algebra by MIT OpenCourseware
+**** Linear Algebra by MIT OpenCoursewar
+**** TODO 线性代数
+**** TODO 统计学
+**** TODO 概率
 *** Stats
 **** Intro to Statistics by Udacity
 **** OpenIntro Statistics
