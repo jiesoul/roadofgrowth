@@ -6,6 +6,7 @@
 ** 1. get good at stats, math and machine learning
 *** math
 **** Math Track of Khan Academy
+[[https://www.khanacademy.org/math]]
 **** Linear Algebra by MIT OpenCourseware
 *** Stats
 **** Intro to Statistics by Udacity
