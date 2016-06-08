@@ -11,6 +11,11 @@
 *** TODO Dutre, Philip, Philippe Bekaert, and Kavita Bala. Advanced global illumination. CRC Press, 2006.
 *** TODO Eberly , David. Game Physics. Morgan Kaufmann, 2003.
 *** TODO Bridson, Robert. Fluid simulation for computer graphics. CRC Press, 2015.
+*** TODO 程序从小工到专家
+*** TODO 代码大全2
+*** TODO SCIP
+*** TODO HDTP
+*** TODO 
 *** TODO 
 
 ** TODO posts [%]
