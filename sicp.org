@@ -1,0 +1,122 @@
+* TODO SICP [0%]
+** TODO Chapter 1 Building Abstractions with Procedures [0%]
+*** TODO The Elements of Programming
+**** TODO Expressions
+**** TODO Naming and the Environment
+**** TODO Evaluating Combinations
+**** TODO Compound Procedures
+**** TODO The Substitution Model for Procedure Application
+**** TODO Conditional Expressions and Predicates
+**** TODO Example: Square Roots by Newton's Method
+**** TODO Procedure as Black-Box Abstractions
+*** TODO Procedures and the Processes They Generate
+**** TODO Linear Recursion and Iteration
+**** TODO Tree and Recursion 
+**** TODO Orders of Growth
+**** TODO Exponentiation
+**** TODO Greatest Common Divisors
+**** TODO Example: Testing for Primality
+*** TODO Formulating Abstractions with Highter-Order Procedures
+**** TODO Procedures as Arguments
+**** TODO Constructing Procedures Using Lambda
+**** TODO Procedures as General Method
+**** TODO Procedures as Returned Values
+** TODO Building Abstractions with Data
+*** TODO Introduction to Data Abstraction
+**** TODO Example: Arithmetic Operations for Rational Numbers
+**** TODO Abstraction Barriers
+**** TODO What Is Meant by Data?
+**** TODO Extended Exercise: Interval Arithmetic
+*** TODO Hierarchical Data and the Closur Property
+**** TODO Representing Sequences
+**** TODO Hierarchical Structures
+**** TODO Sequences as Convertional Interfaces
+**** TODO Example: A Pictrue Language
+*** TODO Symbolic Data
+**** TODO Quotation
+**** TODO Example: Symbolic Differentiation
+**** TODO Example: Representing Sets
+**** TODO Example: Huffman Encoding Trees
+*** TODO Multiple Representations for Abstract Data
+**** TODO Representations for Complex Numbers
+**** TODO Tagged data
+**** TODO Data-Directed Programming and Additivity
+*** TODO Systems with Generic Operations
+**** TODO Generic Arithmetic Operations
+**** TODO Combining Data of Different Types
+**** TODO Example: Symbolic Algebra
+** TODO Modularity, Objects, and State
+*** TODO Assignement and Local State
+**** TODO Local State Variables
+**** TODO The Benefits of Introducing Assignement
+**** TODO The Costs of Introducing Assignement
+*** TODO The Environment Model of Evaluation
+**** TODO The Rules for Evaluation
+**** TODO Applying Simple Procedures
+**** TODO Frames as the Repository of Local State
+**** TODO Internal Definitions
+*** TODO Modeling with Mutable Data
+**** TODO Mutable List Structure
+**** TODO Representing Queues
+**** TODO Representing Tables
+**** TODO A Simulator for Digital Circuits
+**** TODO Propagation of Constraints
+*** TODO Concurrency: Time Is of the Essence
+**** TODO The Nature of Time in Concurrent System
+**** TODO Mechanisms for Controlling Concurrency
+*** TODO Streams
+**** TODO Streams Are Delayed Lists
+**** TODO Infinite Streams
+**** TODO Exploitiing the Streams Paradigm
+**** TODO Streams and Delayed Evaluation
+**** TODO Modularity of Functional Programs and Modularity of Objects
+** TODO Metalinguistic Abstraction
+*** TODO The Metacircular Evaluator
+**** TODO The Core of the Evaluator
+**** TODO Representing Expressions
+**** TODO Evaluator Data Structures
+**** TODO Running the Evaluator as a Program
+**** TODO Data as Programs
+**** TODO Internal Definitions
+**** TODO Seqarating Syntactic Analysis from Execution
+*** TODO Variations on a Schemme -- Lazy Evaluation
+**** TODO Normal Order and Applicative Order
+**** TODO An Interpreter with Lazy Evaluation 
+**** TODO Streams as Lazy Lists
+*** TODO Variations on a Schemme -- Nondeterministic Computing
+**** TODO Amb and Search
+**** TODO Examples of Nondeterministic Programs
+**** TODO Implementing the Amb Evaluator
+*** TODO Logic Programming
+**** TODO Deductive Information Retrieval
+**** TODO How the Query System Works
+**** TODO Is Logic Programming Mathematical Logic
+**** TODO Implementing the Query System
+** TODO Computing with Register Machines
+*** TODO Designing Register Machines
+**** TODO A Language for Describing Register Machines
+**** TODO Abstraction in Machines Design
+**** TODO Subroutines
+**** TODO Using a Stack to Implement Recursion
+**** TODO Instruction Summary
+*** TODO A Register-Machine Simulator
+**** TODO The Machine Model
+**** TODO The Assembler
+**** TODO Generating Execution Procedures for Introductions
+**** TODO Monitoring Machine Performance
+*** TODO Storage Allocation and Garbage Collection
+**** TODO Memory as Vectors
+**** TODO Maintaining the Illusion of Infinite Memory
+*** TODO The Explicit-Control Evaluator
+**** TODO The Core of the Explicit-Control Evaluator
+**** TODO Sequence Evaluation and Tail Recursion
+**** TODO Conditionals, Assignements, and Definitions
+**** TODO Running the Evaluator
+*** TODO Compilation
+**** TODO Structure of the Complier
+**** TODO Compiling Expressions
+**** TODO Compiling Combinations
+**** TODO Compiling Instruction Sequences
+**** TODO An Example of Compiled Code
+**** TODO Lexical Addressing
+**** TODO Interfacing Compiled Code to the Evaluator
