@@ -1,0 +1,57 @@
+* TODO thoughtworks 读书雷达-2016 [0%]
+** TODO 编程与实践 [0%]
+*** TODO 基础篇 [0%]
+**** TODO 白帽子讲web案例
+**** TODO 敏捷软件开发：原则、实践和模式
+**** TODO 重构
+**** TODO 编写可读代码的艺术
+**** TODO 程序员的职业素养
+**** TODO 软件开发践行录
+*** TODO 进阶篇
+**** TODO 实现模式
+**** TODO 领域特定语言
+**** TODO Building Microsevices
+微服务 
+*** TODO 高级篇
+**** TODO 计算机程序的构造和解释
+**** TODO 修改代码的艺术
+** TODO 提升与修炼
+*** TODO 基础
+**** TODO 程序员思维训练
+**** TODO 金字塔原理
+**** TODO 暗时间
+**** TODO 黑客：计算机革命的英雄
+*** TODO 进阶
+**** TODO 系统思考
+**** TODO 咨询的奥秘
+**** TODO Thetrusted Advisor
+**** TODO Unix编程艺术
+*** TODO 高级
+**** TODO 分析模式
+**** TODO 实现领域驱动设计
+** TODO 流程与交付
+*** TODO 基础
+**** TODO 硝烟中的Scrum和XP
+**** TODO 用户故事与敏捷方法
+*** TODO 进阶
+**** TODO 持续交付
+**** TODO Google软件测试之道
+**** TODO 敏捷软件测试
+**** TODO 精益软件质量
+*** TODO 高级
+**** TODO 发布！软件的设计与部署
+**** TODO 看板方法
+**** TODO 实例化需求：团队如何交付正确的软件
+**** TODO 精益和敏捷开发大型应用指南
+** TODO 思想与领导力
+*** TODO 基础
+**** TODO 门后的秘密
+**** TODO 部落
+*** TODO 进阶
+**** TODO 精益思想
+**** TODO 第五项修炼
+**** TODO 影响力
+*** TODO 高级
+**** TODO Agile iT Organization Design
+**** TODO 管理3.0:培养和提升敏捷领导力
+**** TODO 精益企业
