@@ -1,0 +1,22 @@
+* computer-scientist growth
+** TODO books [0%]
+*** TODO TKernighan, Brian W., and Dennis M. Ritchie. The C programming language. Vol. 2. Englewood Cliffs: prentice-Hall, 1988.
+*** TODO Lippman, Stanley B., Josée Lajoie, and Barbara E. Moo. C++ Primer. Addison-Wesley, 2012.
+*** TODO Bryant, Randal E., O'Hallaron David Richard, and O'Hallaron David Richard. Computer systems: a programmer's perspective. Vol. 281. Upper Saddle River: Prentice Hall, 2003.
+*** TODO Thomas H.. Cormen, et al. Introduction to algorithms. Vol. 6. Cambridge: MIT press, 2001.
+*** TODO Gregory, Jason. Game engine architecture. CRC Press, 2009.
+*** TODO Strang, Gilbert. Computational science and engineering. Vol. 1. Wellesley: Wellesley-Cambridge Press, 2007.
+*** TODO Akenine-Möller, Tomas, Eric Haines, and Naty Hoffman. Real-time rendering. CRC Press, 2008.
+*** TODO Pharr, Matt, and Greg Humphreys. Physically based rendering: From theory to implementation. Morgan Kaufmann, 2004.
+*** TODO Dutre, Philip, Philippe Bekaert, and Kavita Bala. Advanced global illumination. CRC Press, 2006.
+*** TODO Eberly , David. Game Physics. Morgan Kaufmann, 2003.
+*** TODO Bridson, Robert. Fluid simulation for computer graphics. CRC Press, 2015.
+*** TODO 程序从小工到专家
+*** TODO 代码大全2
+*** TODO SCIP
+*** TODO HDTP
+*** TODO 
+*** TODO 
+
+** TODO posts [%]
+*** TODO  
