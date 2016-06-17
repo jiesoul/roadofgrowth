@@ -1,21 +1,35 @@
 * TODO SICP [0%]
 ** TODO Chapter 1 Building Abstractions with Procedures [0%]
-*** TODO The Elements of Programming
-**** TODO Expressions
-**** TODO Naming and the Environment
-**** TODO Evaluating Combinations
-**** TODO Compound Procedures
-**** TODO The Substitution Model for Procedure Application
-**** TODO Conditional Expressions and Predicates
-**** TODO Example: Square Roots by Newton's Method
-**** TODO Procedure as Black-Box Abstractions
-*** TODO Procedures and the Processes They Generate
-**** TODO Linear Recursion and Iteration
-**** TODO Tree and Recursion 
-**** TODO Orders of Growth
-**** TODO Exponentiation
-**** TODO Greatest Common Divisors
-**** TODO Example: Testing for Primality
+*** TODO The Elements of Programming [100%]
+**** DONE Expressions
+CLOSED: [2016-06-14 二 09:59]
+**** DONE Naming and the Environment
+CLOSED: [2016-06-14 二 10:16]
+**** DONE Evaluating Combinations
+CLOSED: [2016-06-14 二 10:32]
+**** DONE Compound Procedures
+CLOSED: [2016-06-14 二 10:44]
+**** DONE The Substitution Model for Procedure Application
+CLOSED: [2016-06-14 二 10:57]
+**** DONE Conditional Expressions and Predicates
+CLOSED: [2016-06-14 二 11:13]
+**** DONE Example: Square Roots by Newton's Method
+CLOSED: [2016-06-14 二 11:59]
+**** DONE Procedure as Black-Box Abstractions
+CLOSED: [2016-06-14 二 12:14]
+*** TODO Procedures and the Processes They Generate [100%]
+**** DONE Linear Recursion and Iteration
+CLOSED: [2016-06-14 二 16:23]
+**** DONE Tree and Recursion  
+CLOSED: [2016-06-14 二 16:23]
+**** DONE Orders of Growth
+CLOSED: [2016-06-14 二 17:44]
+**** DONE Exponentiation
+CLOSED: [2016-06-14 二 17:44]
+**** DONE Greatest Common Divisors
+CLOSED: [2016-06-14 二 17:44]
+**** DONE Example: Testing for Primality
+CLOSED: [2016-06-14 二 17:44]
 *** TODO Formulating Abstractions with Highter-Order Procedures
 **** TODO Procedures as Arguments
 **** TODO Constructing Procedures Using Lambda
