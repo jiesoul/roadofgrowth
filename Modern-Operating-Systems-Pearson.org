@@ -1,0 +1,125 @@
+* Modern Operating Systems-Pearson [0%]
+** TODO 1 INTRODUCTION 介绍 [%]
+*** TODO 1.1 WHAT IS AN OPERATING SYSTEM? 什么是一个操作系统
+1 TODO The Operrating System as an Extended Machine
+2 TODO The Operating System as a Resource Manager
+*** TODO 1.2 操作系统的历史
+*** TODO 1.3 计算机硬件浏览
+*** TODO 1.4 操作系统动物园
+*** TODO 1.5 操作系统概念
+*** TODO 1.6 系统调用
+*** TODO 1.7 操作系统构造
+*** TODO 1.8 C的世界
+** TODO 2 进程和线程 [0%]
+*** TODO 2.1 进程
+*** TODO 2.2 线程
+*** TODO 2.3 进程间通信
+*** TODO 2.4 调度
+*** TODO 2.5 传统IPC问题
+*** TODO 2.6 在进程和线程上探索
+*** TODO 2.7 总结
+** TODO 3 内存管理
+*** TODO 3.1 没有内存抽象
+*** TODO 3.2 一个内存抽象：地址空间
+*** TODO 3.3 虚拟内存
+*** TODO 3.4 页替换算法
+*** TODO 3.5 分页系统的问题设计
+*** TODO 3.6 实现问题
+*** TODO 3.7 分割
+*** TODO 3.8 研究内存管理
+*** TODO 3.9 总结
+** TODO 4 文件系统
+*** TODO 4.1 文件
+*** TODO 4.2 目录
+*** TODO 4.3 文件系统实现
+*** TODO 4.4 文件系统管理和组织
+*** TODO 4.5 文件系统例子
+*** TODO 4.6 探索文件系统
+*** TODO 4.7 总结
+** TODO 5 输入/输出
+*** TODO 1. I/O 硬件的原则
+*** TODO 2. I/O 软件的原则
+*** TODO 3. I/O 软件层
+*** TODO 4. 磁盘
+*** TODO 5. 时钟
+*** TODO 6. 用户输入：键盘，鼠标，监听
+*** TODO 7. 瘦客户端
+*** TODO 8. 电源管理
+*** TODO 9. 探索输入输出
+*** TODO 10. 总结
+** TODO 6 死锁 DEADLOCK
+*** TODO 1. 资源
+*** TODO 2. 介绍死锁
+*** TODO 3. 鸵鸟算法
+*** TODO 4. 死锁发现和恢复
+*** TODO 5. 死锁的避免
+*** TODO 6. 死锁的预防
+*** TODO 7. 其它问题
+*** TODO 8. 探索死锁
+*** TODO 9. 总结
+** TODO 7 虚拟化和云
+*** TODO 1. 历史
+*** TODO 2. 虚拟化的要求
+*** TODO 3. 类型1和类型2的HYPERVISORS
+*** TODO 4. 高效虚拟化性能
+*** TODO 5. 管理微内核做对了吗？
+*** TODO 6. 内存虚拟
+*** TODO 7. IO 虚拟
+*** TODO 8. 程序虚拟
+*** TODO 9. 在多核CPU上虚拟机器
+*** TODO 10. 许可证问题
+*** TODO 11. 云
+*** TODO 12. 学习案例：VMSARE
+*** TODO 13. 探索虚拟化和云
+** TODO 8 多进程系统
+*** TODO 1. 多进程
+*** TODO 2. 多计算机
+*** TODO 3. 分布式系统
+*** TODO 4. 探索多进程系统
+*** TODO 5. 总结
+** TODO 9 安全
+*** TODO 1. 安全环境
+*** TODO 2. 操作系统安全
+*** TODO 3. 控制进入资源
+*** TODO 4. 安全系统的正式模型
+*** TODO 5. 密码学基础
+*** TODO 6. 验证
+*** TODO 7. 压榨系统
+*** TODO 8. 内部攻击
+*** TODO 9. MALWARE 
+*** TODO 10. 防御
+*** TODO 11. 探索安全
+*** TODO 12. 总结
+** TODO 10 案例学习 1: UNIX,LINUX,和ANDROID 
+*** TODO 1. UNINX AND LINUX 历史
+*** TODO 2. LINUX 概览
+*** TODO 3. LINUX 进程
+*** TODO 4. LINUX 内存管理
+*** TODO 5. LINUX 输入/输出
+*** TODO 6. LINUX 文件系统
+*** TODO 7. LINUX 安全
+*** TODO 8. ANDROID
+*** TODO 9. 总结
+** TODO 11 安全学习 2: WINDOWS 8
+*** TODO 1. WINDOWS 到 WINDOWS 8.1 的历史
+*** TODO 2. WINDOWS 编程
+*** TODO 3. 文件构造
+*** TODO 4. WINDOWS 进程和线程
+*** TODO 5. 内存管理
+*** TODO 6. WINDOWS 缓存
+*** TODO 7. WINDOWS 输入输出
+*** TODO 8. WINDOWS NT 文件系统
+*** TODO 9. WINDOWS 电源管理
+*** TODO 10. WINDOWS 8 安全
+*** TODO 11. 总结
+** TODO 12 操作系统设计
+*** TODO 1. 设计问题的自然
+*** TODO 2. 界面设计
+*** TODO 3. 实现
+*** TODO 4. 性能
+*** TODO 5. 工程管理
+*** TODO 6. 操作系统设计趋势
+*** TODO 7. 总结
+** TODO 13 阅读 LIST 和 参考书目
+*** TODO 1. 建议阅读
+*** TODO 2. 参考书目 

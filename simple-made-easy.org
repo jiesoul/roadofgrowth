@@ -8,5 +8,10 @@
 
 [大笑声]
 
+这个演讲我希望看起来是明显。 关于这个会议最重要的事情之一是这是相当边缘的人群。你们许多人采用新技术。你们许多人使用FP（函数式编程）.你可能打盹或者说是是是度过这部分。并且如果有一些熟悉的，那是最好的。另一方面，我想我希望你们带一些工具离开演讲后你能和其它人讨论这次演讲然后试着砍做正确的事情。
 
+因些，我使用一个向官方的呼吁开始。Simplicity是可信赖的先决条件。我无疑同意这个说法。我不同意Dijkstra说的每件事，并且我认为他在细节上的处理有非常大的错误。但是我认为这个是对的。我们需要构建simple的系统如果我们想构建好的系统。我不认为我们足够关注它了。
 
+ 我爱世界的起源。那是非常大的乐趣。他们为什么有有趣的原因之一是无论什么我们接受的意思就是言语的意思。你们知道，无论什么通常理解的情事就是本来的事情。并且我们经常有趣的去说，当然，我希望我可以；我希望我回到到它真正的意思并且使用它。And I think there's a couple of words that I'm going to use in this talk that I would love for you to come away knowing the origins of and try to use more precisely, especially when talking about software.
+
+第一个词是simple。并且这个词的词根是 sim 和 plex，意思是一部分或者一根带子或者弯曲。
